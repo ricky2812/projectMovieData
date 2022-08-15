@@ -1,0 +1,108 @@
+ID,name,rating,year,director,actors,genres
+tt0364733,Veedevadandi Babu,6.2,1997,E.V.V. Satyanarayana,N/A,['Comedy']
+tt8272296,A Mayalu Timi Lai,N/A,N/A,Janaki Pant,N/A,"['Short', 'Music']"
+tt5684550,Xuan Zang,6.1,2016,Jianqi Huo,N/A,"['Biography', 'History']"
+tt0250733,Sikandar,N/A,1976,Sai Paranjape,N/A,N/A
+tt1407272,Pehla Qadam,N/A,1958,Asghar Tharani,N/A,N/A
+tt0318983,N/A,7.1,1986,R. Sundarajan,N/A,['Drama']
+tt3148392,Shatru,4.9,2013,Jagadish Kumar,N/A,"['Action', 'Thriller']"
+tt7836398,N/A,N/A,N/A,Simpal Kharel,N/A,['Music']
+tt0376353,Zinda Jala Doonga,N/A,1988,Kiran Kumar,N/A,['Action']
+tt2302945,Tukaram,7.7,2012,Chandrakant Kulkarni,N/A,"['Biography', 'Drama', 'History']"
+tt6682124,Rogue,5.0,2017,Puri Jagannadh,N/A,"['Action', 'Thriller']"
+tt6882630,Bhale Bullodu,N/A,1995,Sarath,N/A,['Drama']
+tt0397478,Jaal,N/A,1973,Iftikhar Khan,N/A,['Musical']
+tt0464849,Yuvakudu,6.9,2000,A. Karunakaran,N/A,['Romance']
+tt13276010,Goolihatti,N/A,2015,Shashank Raj,N/A,['Drama']
+tt0139306,Hamara Ghar,N/A,1950,Nanabhai Bhatt,N/A,N/A
+tt10515954,Olessia,4.2,2019,Nazrudinsha,N/A,"['Drama', 'Musical']"
+tt5159256,Prohibited,7.9,2015,Ali Sohail Jaura,N/A,"['Short', 'Drama', 'Thriller']"
+tt1039989,Sunday,5.4,2008,Rohit Shetty,N/A,"['Action', 'Comedy', 'Mystery']"
+tt2761622,Spy in Goa,N/A,1966,Dharam Kumar,N/A,"['Action', 'Thriller']"
+tt6517874,Ramante Edenthottam,5.9,2017,Ranjith Sankar,N/A,"['Comedy', 'Drama', 'Romance']"
+tt0150519,Faslah,5.6,1974,Khwaja Ahmad Abbas,N/A,"['Crime', 'Drama', 'Romance']"
+tt4820566,Jawani Ki Ghabrahat,N/A,1991,Thriller,N/A,['Thriller']
+tt0318296,Anbu Chinnam,N/A,1990,Add content advisory,N/A,N/A
+tt12717866,Naveed,N/A,2020,Michael Keenan,N/A,['Documentary']
+tt12701012,Ramudu Bheemudu,9.5,1988,K. Muralimohana Rao,N/A,['Drama']
+tt3466016,Vaade Kavali,N/A,2009,Rajendra Darshan,N/A,['Romance']
+tt4654666,Aakhri Muqabla,N/A,1978,Action,N/A,['Action']
+tt1319563,Dracula,3.8,1999,Bhooshan Lal,N/A,['Horror']
+tt0398130,Jahanara,N/A,1935,F.R. Irani,N/A,N/A
+tt0065764,Geet,7.0,1970,Ramanand Sagar,N/A,"['Action', 'Crime', 'Musical']"
+tt2707908,Sej Piya Ki,N/A,1985,Sudhir Dalvi,N/A,['Drama']
+tt3509698,Sati Sita Luv Kush,N/A,1981,T.N. Balakrishna,N/A,['Drama']
+tt1575647,Nuvvu Vasthavani,6.5,2000,V.R. Pratap,N/A,"['Family', 'Romance']"
+tt0357879,Madadgaar,5.2,1987,Ramesh Puri,N/A,"['Action', 'Crime', 'Drama']"
+tt1827428,Hamra Se Biyah Karba,N/A,2003,Braj Bhushan,N/A,['Drama']
+tt0351354,Milan Ki Raat,4.4,1967,R. Bhattacharya,N/A,"['Drama', 'Romance']"
+tt0213519,Bhool Bhulaiyan,6.0,1933,Jayant Desai,N/A,['Comedy']
+tt0246905,Saajan Chale Sasural,5.9,1996,David Dhawan,N/A,"['Comedy', 'Drama']"
+tt1582519,Khaleja,7.6,2010,Trivikram Srinivas,N/A,"['Action', 'Comedy', 'Fantasy']"
+tt8622232,Time to Dance,2.2,2021,Stanley D'Costa,N/A,"['Musical', 'Romance']"
+tt0109922,Gopi Kishan,5.8,1994,Mukesh Duggal,N/A,"['Action', 'Comedy', 'Drama']"
+tt0187351,N/A,5.0,1989,Harmesh Malhotra,N/A,"['Drama', 'Family', 'Fantasy']"
+tt5026204,Dobara Phir Se,6.5,2016,Mehreen Jabbar,N/A,['Drama']
+tt2373666,Pagaivan,4.7,1997,Sathyaraj,N/A,"['Action', 'Comedy']"
+tt1245732,N/A,6.5,2009,Anant Mahadevan,N/A,"['Action', 'Drama', 'Thriller']"
+tt0273409,Adhikar,N/A,1938,P.C. Barua,N/A,N/A
+tt4601930,Hasta Melapa,N/A,1969,Manher Desai,N/A,['Drama']
+tt0242476,Gangavatarana,N/A,1984,Babubhai Mistry,N/A,N/A
+tt0449814,Amnol Sahara,N/A,1952,Raaj Kumar,N/A,['Drama']
+tt0398974,Dr. Shaitan,N/A,1960,Helen,N/A,N/A
+tt1702558,Nadir Khan,N/A,1968,Hanif Kardar,N/A,N/A
+tt0493437,Apna Sapna Money Money,5.4,2006,Sangeeth Sivan,N/A,"['Comedy', 'Musical', 'Romance']"
+tt0273405,Aag Aur Sholay,2.5,1987,S.A. Haafiz,N/A,N/A
+tt0049595,Parivar,7.5,1956,Asit Kumar Sen,N/A,"['Comedy', 'Drama', 'Family']"
+tt2930026,Humraah: The Traitor,N/A,2008,V.K. Singh,N/A,['Thriller']
+tt6597160,Jacqueline I Am Coming,8.6,2019,Banty Dubey,N/A,['Drama']
+tt0829459,A Mighty Heart,6.6,2007,Michael Winterbottom,N/A,"['Biography', 'Drama', 'History']"
+tt0154875,Midnight Mail,N/A,1939,K. Amarnath,N/A,['Action']
+tt0364628,Raktalekha,6.3,1992,Ram Mukherjee,N/A,['Drama']
+tt0442625,Waqt Ka Shahenshah,4.5,1987,K. Bapaiah,N/A,['Action']
+tt3666258,Coffee Bloom,5.9,2015,Manu Warrier,N/A,['Drama']
+tt0266712,N/A,N/A,N/A,N/A,N/A,N/A
+tt3209556,Vidiyum Munn,7.4,2013,Balaji K. Kumar,N/A,['Thriller']
+tt6120732,N/A,N/A,N/A,N/A,N/A,N/A
+tt3681344,N/A,N/A,N/A,N/A,N/A,N/A
+tt8243058,N/A,N/A,N/A,N/A,N/A,N/A
+tt0267796,N/A,N/A,N/A,N/A,N/A,N/A
+tt14189052,N/A,N/A,N/A,N/A,N/A,N/A
+tt0246433,N/A,N/A,N/A,N/A,N/A,N/A
+tt2613436,Paigham,N/A,1988,Mohammed Hussain,N/A,['Fantasy']
+tt13088566,N/A,N/A,N/A,N/A,N/A,N/A
+tt9053354,Anthervedam,5.8,2018,Ravi Kishore Chandina,N/A,['Thriller']
+tt13605848,N/A,N/A,N/A,N/A,N/A,N/A
+tt1283527,N/A,N/A,N/A,N/A,N/A,N/A
+tt0248294,N/A,N/A,N/A,N/A,N/A,N/A
+tt0352979,N/A,N/A,N/A,N/A,N/A,N/A
+tt5278634,N/A,N/A,N/A,N/A,N/A,N/A
+tt0283028,N/A,N/A,N/A,N/A,N/A,N/A
+tt14045622,N/A,N/A,N/A,N/A,N/A,N/A
+tt10160924,N/A,N/A,N/A,N/A,N/A,N/A
+tt5771640,N/A,N/A,N/A,N/A,N/A,N/A
+tt1441323,Madi Veetu Ezhai,N/A,1981,Amirtham,N/A,N/A
+tt4007298,N/A,N/A,N/A,N/A,N/A,N/A
+tt0246877,N/A,N/A,N/A,N/A,N/A,N/A
+tt0320701,N/A,N/A,N/A,N/A,N/A,N/A
+tt0266290,N/A,N/A,N/A,N/A,N/A,N/A
+tt1606327,Saath Laakh,N/A,1957,Jaffer Malik,N/A,"['Musical', 'Romance']"
+tt1502852,N/A,N/A,N/A,N/A,N/A,N/A
+tt7419244,N/A,N/A,N/A,N/A,N/A,N/A
+tt2980794,N/A,N/A,N/A,N/A,N/A,N/A
+tt1524568,N/A,N/A,N/A,N/A,N/A,N/A
+tt3521136,N/A,N/A,N/A,N/A,N/A,N/A
+tt13057434,N/A,N/A,N/A,N/A,N/A,N/A
+tt0243125,N/A,N/A,N/A,N/A,N/A,N/A
+tt2942618,N/A,N/A,N/A,N/A,N/A,N/A
+tt2777694,N/A,N/A,N/A,N/A,N/A,N/A
+tt3952870,Britto,8.4,2014,Surajit Dhar,N/A,['Drama']
+tt0252229,N/A,N/A,N/A,N/A,N/A,N/A
+tt4960730,N/A,N/A,N/A,N/A,N/A,N/A
+tt0250747,N/A,N/A,N/A,N/A,N/A,N/A
+tt0352287,N/A,N/A,N/A,N/A,N/A,N/A
+tt0262446,N/A,N/A,N/A,N/A,N/A,N/A
+tt0995840,N/A,N/A,N/A,N/A,N/A,N/A
+tt0104098,N/A,N/A,N/A,N/A,N/A,N/A
+tt0280817,N/A,N/A,N/A,N/A,N/A,N/A
+tt1593777,Sansarer Itikatha,N/A,1983,Arabinda Mukhopadhyay,N/A,['Drama']
